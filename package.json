@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.84.0"
+  },
+  "name": "palindrome_checker_ai",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xNakiri24/palindrome_checker_ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xNakiri24/palindrome_checker_ai/issues"
+  },
+  "homepage": "https://github.com/xNakiri24/palindrome_checker_ai#readme"
+}
