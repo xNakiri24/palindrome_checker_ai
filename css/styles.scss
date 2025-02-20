@@ -21,7 +21,7 @@ header{
         padding-top: 12px;
         
         span{
-            font-size: 16px;
+            font-size: 18px;
             font-family:  "Russo One";
         }
         
@@ -73,15 +73,19 @@ main{
     }
 
     .list-container{
+        padding-top: 12px;
+        padding-left: 12px;
         height: max-content;
         width: 95%;
         margin: 0 auto;
 
-        border: $border;
-
         .list-wrapper{
             list-style: none;
             
+            .list-word{
+                font-family: 'Russo One';
+
+            }
 
         }
     }
@@ -100,13 +104,19 @@ main{
             display: flex;
             margin: 0 auto;
             align-items: center;
+
+            span{
+                font-size: 32px;
+                font-family:  "Russo One";
+            }
         }
     }
     
     main{
         .greetings{
             text-align: center;
-            color: burlywood;
+            color: #F1F5F9;
+            font-size: 24px;
         }
     
         form{
@@ -116,29 +126,54 @@ main{
             align-items: center;
             
             input{
-                padding-left: 45px;
+                background-color: #10151D;
+                color: #F1F5F9;
+
+                padding-left: 12px;
                 margin: 16px;
     
                 width: 450px;
                 height: 45px;
                 box-sizing: border-box;
     
-                border-radius: 25px;
+                border: 0;
+                border-bottom: 1px solid grey;
+
+                font-size: 16px;
+                font-weight: bold;
     
             }
     
             button{
+                background-color: #10151D;
+                color: #F1F5F9;
+
                 margin-top: 8px;
                 width: 150px;
                 height: 35px;
     
-                border-radius: 25px;
+                border-radius: 12px;
+                border: 1px solid grey;
+                
+            }
+        }
+
+        .list-container{
+            padding-left: 48px;
+
+            .list-wrapper{
+                list-style: none;
+
+                .list-word{
+                    font-family: 'Russo One';
+                    font-size: 18px;
+                }
             }
         }
     }
-    }
+}
 
-    @media (min-width: 1200px) and (max-width: 1980px){
+@media (min-width: 1200px) and (max-width: 1980px){
     
         header{
             // border: $border;
@@ -150,13 +185,19 @@ main{
                 display: flex;
                 margin: 0 auto;
                 align-items: center;
+
+                span{
+                    font-size: 46px;
+                    font-family:  "Russo One";
+                }
             }
         }
         
         main{
             .greetings{
                 text-align: center;
-                color: aqua;
+                color: #F1F5F9;
+                font-size: 24px;
             }
         
             form{
@@ -166,23 +207,47 @@ main{
                 align-items: center;
                 
                 input{
-                    padding-left: 45px;
+                    background-color: #10151D;
+                    color: #F1F5F9;
+
+                    padding-left: 12px;
                     margin: 16px;
         
                     width: 450px;
                     height: 45px;
                     box-sizing: border-box;
         
-                    border-radius: 25px;
+                    border: 0;
+                    border-bottom: 1px solid grey;
+
+                    font-weight: bold;
+                    font-size: 18px;
         
                 }
         
                 button{
+                    background-color: #10151D;
+                    color: #F1F5F9;
+
                     margin-top: 8px;
                     width: 150px;
                     height: 35px;
         
-                    border-radius: 25px;
+                    border-radius: 12px;
+                    border: 1px solid grey;
+                }
+            }
+
+            .list-container{
+                padding-left: 48px;
+
+                .list-wrapper{
+                    list-style: none;
+
+                    .list-word{
+                        font-family: 'Russo One';
+                        font-size: 18px;
+                    }
                 }
             }
         }
