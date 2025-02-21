@@ -1,0 +1,423 @@
+[
+    {
+      "name": "John Doe",
+      "age": 28,
+      "address": "123 Main St, Springfield, IL",
+      "email": "johndoe@example.com",
+      "quote": "The only limit is your imagination.",
+      "hobbies": ["reading", "hiking", "coding"],
+      "contact": {
+        "phone": "555-1234",
+        "linkedin": "linkedin.com/in/johndoe"
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "age": 34,
+      "address": "456 Elm St, Metropolis, NY",
+      "email": "janesmith@example.com",
+      "quote": "Dream big and dare to fail.",
+      "hobbies": ["painting", "traveling", "yoga"],
+      "contact": {
+        "phone": "555-5678",
+        "linkedin": "linkedin.com/in/janesmith"
+      }
+    },
+    {
+      "name": "Alice Johnson",
+      "age": 22,
+      "address": "789 Oak St, Smalltown, TX",
+      "email": "alicej@example.com",
+      "quote": "Stay hungry, stay foolish.",
+      "hobbies": ["dancing", "cooking", "photography"],
+      "contact": {
+        "phone": "555-9101",
+        "linkedin": "linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "name": "Bob Brown",
+      "age": 45,
+      "address": "101 Pine St, Laketown, CA",
+      "email": "bobbrown@example.com",
+      "quote": "Simplicity is the ultimate sophistication.",
+      "hobbies": ["fishing", "gardening", "chess"],
+      "contact": {
+        "phone": "555-1122",
+        "linkedin": "linkedin.com/in/bobbrown"
+      }
+    },
+    {
+      "name": "Charlie Davis",
+      "age": 30,
+      "address": "202 Birch St, Hillvalley, WA",
+      "email": "charlied@example.com",
+      "quote": "Be the change you wish to see in the world.",
+      "hobbies": ["running", "writing", "music"],
+      "contact": {
+        "phone": "555-3344",
+        "linkedin": "linkedin.com/in/charliedavis"
+      }
+    },
+    {
+      "name": "Diana Evans",
+      "age": 29,
+      "address": "303 Cedar St, Rivertown, FL",
+      "email": "dianae@example.com",
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "hobbies": ["swimming", "reading", "volunteering"],
+      "contact": {
+        "phone": "555-5566",
+        "linkedin": "linkedin.com/in/dianaevans"
+      }
+    },
+    {
+      "name": "Ethan Harris",
+      "age": 35,
+      "address": "404 Maple St, Beachtown, CA",
+      "email": "ethanh@example.com",
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "hobbies": ["surfing", "photography", "coding"],
+      "contact": {
+        "phone": "555-7788",
+        "linkedin": "linkedin.com/in/ethanharris"
+      }
+    },
+    {
+      "name": "Fiona Clark",
+      "age": 27,
+      "address": "505 Walnut St, Mountainview, CO",
+      "email": "fionac@example.com",
+      "quote": "The best way to predict the future is to invent it.",
+      "hobbies": ["skiing", "reading", "painting"],
+      "contact": {
+        "phone": "555-9900",
+        "linkedin": "linkedin.com/in/fionaclark"
+      }
+    },
+    {
+      "name": "George Lewis",
+      "age": 40,
+      "address": "606 Cherry St, Deserttown, AZ",
+      "email": "georgel@example.com",
+      "quote": "Do what you can, with what you have, where you are.",
+      "hobbies": ["camping", "astronomy", "cooking"],
+      "contact": {
+        "phone": "555-2233",
+        "linkedin": "linkedin.com/in/georgelewis"
+      }
+    },
+    {
+      "name": "Hannah Walker",
+      "age": 32,
+      "address": "707 Ash St, Foresttown, OR",
+      "email": "hannahw@example.com",
+      "quote": "It always seems impossible until it's done.",
+      "hobbies": ["hiking", "writing", "yoga"],
+      "contact": {
+        "phone": "555-4455",
+        "linkedin": "linkedin.com/in/hannahwalker"
+      }
+    },
+    {
+      "name": "Ian Hall",
+      "age": 38,
+      "address": "808 Spruce St, Laketown, MI",
+      "email": "ianh@example.com",
+      "quote": "Act as if what you do makes a difference. It does.",
+      "hobbies": ["fishing", "reading", "gardening"],
+      "contact": {
+        "phone": "555-6677",
+        "linkedin": "linkedin.com/in/ianhall"
+      }
+    },
+    {
+      "name": "Julia Young",
+      "age": 26,
+      "address": "909 Birch St, Hilltown, TN",
+      "email": "juliay@example.com",
+      "quote": "No act of kindness, no matter how small, is ever wasted.",
+      "hobbies": ["dancing", "cooking", "traveling"],
+      "contact": {
+        "phone": "555-8899",
+        "linkedin": "linkedin.com/in/juliayoung"
+      }
+    },
+    {
+      "name": "Kevin King",
+      "age": 33,
+      "address": "1010 Oak St, Rivertown, GA",
+      "email": "kevink@example.com",
+      "quote": "The only way to do great work is to love what you do.",
+      "hobbies": ["running", "music", "coding"],
+      "contact": {
+        "phone": "555-0011",
+        "linkedin": "linkedin.com/in/kevinking"
+      }
+    },
+    {
+      "name": "Laura Scott",
+      "age": 31,
+      "address": "1111 Pine St, Beachtown, CA",
+      "email": "lauras@example.com",
+      "quote": "Believe you can and you're halfway there.",
+      "hobbies": ["swimming", "reading", "volunteering"],
+      "contact": {
+        "phone": "555-1122",
+        "linkedin": "linkedin.com/in/laurascott"
+      }
+    },
+    {
+      "name": "Michael Green",
+      "age": 29,
+      "address": "1212 Maple St, Deserttown, AZ",
+      "email": "michaelg@example.com",
+      "quote": "You miss 100% of the shots you don't take.",
+      "hobbies": ["camping", "astronomy", "cooking"],
+      "contact": {
+        "phone": "555-2233",
+        "linkedin": "linkedin.com/in/michaelgreen"
+      }
+    },
+    {
+      "name": "Nina Adams",
+      "age": 36,
+      "address": "1313 Walnut St, Foresttown, OR",
+      "email": "ninaa@example.com",
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "hobbies": ["hiking", "writing", "yoga"],
+      "contact": {
+        "phone": "555-3344",
+        "linkedin": "linkedin.com/in/ninaadams"
+      }
+    },
+    {
+      "name": "Oscar Baker",
+      "age": 42,
+      "address": "1414 Cherry St, Laketown, MI",
+      "email": "oscarb@example.com",
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "hobbies": ["fishing", "reading", "gardening"],
+      "contact": {
+        "phone": "555-4455",
+        "linkedin": "linkedin.com/in/oscarbaker"
+      }
+    },
+    {
+      "name": "Paula Carter",
+      "age": 25,
+      "address": "1515 Ash St, Hilltown, TN",
+      "email": "paulac@example.com",
+      "quote": "The only person you are destined to become is the person you decide to be.",
+      "hobbies": ["dancing", "cooking", "traveling"],
+      "contact": {
+        "phone": "555-5566",
+        "linkedin": "linkedin.com/in/paulacarter"
+      }
+    },
+    {
+      "name": "Quincy Evans",
+      "age": 37,
+      "address": "1616 Spruce St, Rivertown, GA",
+      "email": "quincye@example.com",
+      "quote": "Everything you've ever wanted is on the other side of fear.",
+      "hobbies": ["running", "music", "coding"],
+      "contact": {
+        "phone": "555-6677",
+        "linkedin": "linkedin.com/in/quincyevans"
+      }
+    },
+    {
+      "name": "Rachel Foster",
+      "age": 24,
+      "address": "1717 Birch St, Beachtown, CA",
+      "email": "rachelf@example.com",
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "hobbies": ["swimming", "reading", "volunteering"],
+      "contact": {
+        "phone": "555-7788",
+        "linkedin": "linkedin.com/in/rachelfoster"
+      }
+    },
+    {
+      "name": "Samuel Gray",
+      "age": 39,
+      "address": "1818 Oak St, Deserttown, AZ",
+      "email": "samuelg@example.com",
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "hobbies": ["camping", "astronomy", "cooking"],
+      "contact": {
+        "phone": "555-8899",
+        "linkedin": "linkedin.com/in/samuelgray"
+      }
+    },
+    {
+      "name": "Tina Hughes",
+      "age": 28,
+      "address": "1919 Pine St, Foresttown, OR",
+      "email": "tinah@example.com",
+      "quote": "It is never too late to be what you might have been.",
+      "hobbies": ["hiking", "writing", "yoga"],
+      "contact": {
+        "phone": "555-9900",
+        "linkedin": "linkedin.com/in/tinahughes"
+      }
+    },
+    {
+      "name": "Ulysses Ingram",
+      "age": 43,
+      "address": "2020 Maple St, Laketown, MI",
+      "email": "ulyssesi@example.com",
+      "quote": "The mind is everything. What you think you become.",
+      "hobbies": ["fishing", "reading", "gardening"],
+      "contact": {
+        "phone": "555-0011",
+        "linkedin": "linkedin.com/in/ulyssesingram"
+      }
+    },
+    {
+      "name": "Victoria Jenkins",
+      "age": 27,
+      "address": "2121 Walnut St, Hilltown, TN",
+      "email": "victoriaj@example.com",
+      "quote": "The best revenge is massive success.",
+      "hobbies": ["dancing", "cooking", "traveling"],
+      "contact": {
+        "phone": "555-1122",
+        "linkedin": "linkedin.com/in/victoriajenkins"
+      }
+    },
+    {
+      "name": "Walter Kelly",
+      "age": 34,
+      "address": "2222 Cherry St, Rivertown, GA",
+      "email": "walterk@example.com",
+      "quote": "You must be the change you wish to see in the world.",
+      "hobbies": ["running", "music", "coding"],
+      "contact": {
+        "phone": "555-2233",
+        "linkedin": "linkedin.com/in/walterkelly"
+      }
+    },
+    {
+      "name": "Xena Lopez",
+      "age": 29,
+      "address": "2323 Ash St, Beachtown, CA",
+      "email": "xenal@example.com",
+      "quote": "The only thing we have to fear is fear itself.",
+      "hobbies": ["swimming", "reading", "volunteering"],
+      "contact": {
+        "phone": "555-3344",
+        "linkedin": "linkedin.com/in/xenalopez"
+      }
+    },
+    {
+      "name": "Yvonne Martinez",
+      "age": 41,
+      "address": "2424 Spruce St, Deserttown, AZ",
+      "email": "yvonnem@example.com",
+      "quote": "The journey of a thousand miles begins with one step.",
+      "hobbies": ["camping", "astronomy", "cooking"],
+      "contact": {
+        "phone": "555-4455",
+        "linkedin": "linkedin.com/in/yvonnemartinez"
+      }
+    },
+    {
+      "name": "Zachary Nelson",
+      "age": 30,
+      "address": "2525 Birch St, Foresttown, OR",
+      "email": "zacharyn@example.com",
+      "quote": "Life is what happens when you're busy making other plans.",
+      "hobbies": ["hiking", "writing", "yoga"],
+      "contact": {
+        "phone": "555-5566",
+        "linkedin": "linkedin.com/in/zacharynelson"
+      }
+    },
+    {
+      "name": "Amy Owens",
+      "age": 26,
+      "address": "2626 Oak St, Laketown, MI",
+      "email": "amyo@example.com",
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "hobbies": ["fishing", "reading", "gardening"],
+      "contact": {
+        "phone": "555-6677",
+        "linkedin": "linkedin.com/in/amyowens"
+      }
+    },
+    {
+      "name": "Brian Peterson",
+      "age": 35,
+      "address": "2727 Pine St, Hilltown, TN",
+      "email": "brianp@example.com",
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "hobbies": ["dancing", "cooking", "traveling"],
+      "contact": {
+        "phone": "555-7788",
+        "linkedin": "linkedin.com/in/brianpeterson"
+      }
+    },
+    {
+      "name": "Cynthia Quinn",
+      "age": 31,
+      "address": "2828 Maple St, Rivertown, GA",
+      "email": "cynthiaq@example.com",
+      "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+      "hobbies": ["running", "music", "coding"],
+      "contact": {
+        "phone": "555-8899",
+        "linkedin": "linkedin.com/in/cynthiaquinn"
+      }
+    },
+    {
+      "name": "David Rivera",
+      "age": 38,
+      "address": "2929 Walnut St, Beachtown, CA",
+      "email": "davidr@example.com",
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "hobbies": ["swimming", "reading", "volunteering"],
+      "contact": {
+        "phone": "555-9900",
+        "linkedin": "linkedin.com/in/davidrivera"
+      }
+    },
+    {
+      "name": "Eva Simmons",
+      "age": 27,
+      "address": "3030 Cherry St, Deserttown, AZ",
+      "email": "evas@example.com",
+      "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "hobbies": ["camping", "astronomy", "cooking"],
+      "contact": {
+        "phone": "555-0011",
+        "linkedin": "linkedin.com/in/evasimmons"
+      }
+    },
+    {
+      "name": "Frank Torres",
+      "age": 40,
+      "address": "3131 Ash St, Foresttown, OR",
+      "email": "frankt@example.com",
+      "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+      "hobbies": ["hiking", "writing", "yoga"],
+      "contact": {
+        "phone": "555-1122",
+        "linkedin": "linkedin.com/in/franktorres"
+      }
+    },
+    {
+      "name": "Gloria Underwood",
+      "age": 33,
+      "address": "3232 Spruce St, Laketown, MI",
+      "email": "gloriau@example.com",
+      "quote": "You can't use up creativity. The more you use, the more you have.",
+      "hobbies": ["fishing", "reading", "gardening"],
+      "contact": {
+        "phone": "555-2233",
+        "linkedin": "linkedin.com/in/gloriaunderwood"
+      }
+    }
+]
+     
