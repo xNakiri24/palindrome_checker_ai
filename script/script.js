@@ -41,7 +41,7 @@ form.addEventListener('submit', async (event) => {
 
             // Retrieve the last analyzed word from localStorage
             const lastAnalyzedWord = localStorage.getItem("analyzedWord") || "No previous word";
-            summary.innerHTML = `${lastAnalyzedWord} - ${resultWord}`;
+            summary.innerHTML = `${word} - ${resultWord}`;
             p.innerHTML = firstDefinition;
 
             //add summary and  p tags to details
